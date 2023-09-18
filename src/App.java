@@ -8,5 +8,7 @@ public class App {
         //Mathias her
         // Master 2
         // Master 1
+
+        // Hej fra master!!!! haha u are my slave >:)
     }
 }
