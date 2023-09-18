@@ -10,5 +10,7 @@ public class App {
         // Master 1
 
         // Hej fra master!!!! haha u are my slave >:)
+
+        // hej fra konflikt!!!! hahahahhahah >:D
     }
 }
