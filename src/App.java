@@ -4,7 +4,6 @@ public class App {
         //A1
 
         // dababy
-        System.out.println("FejL!!!!");
         //Mathias her
         // Master 2
         // Master 1
